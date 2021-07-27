@@ -12,7 +12,7 @@
 5. You can also change the position where the bot will spawn in the spawn.launch file.
 
 ## Acknowledgements and Resources
-•	https://github.com/g40st/ROS_maze_challenge
+•	https://github.com/g40st/ROS_maze_challenge </br>
 •	https://github.com/ROBOTIS-GIT/turtlebot3_simulations
 
 
