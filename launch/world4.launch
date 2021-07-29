@@ -8,7 +8,7 @@
   <arg name="pause" default="false"/>
   <arg name="world" default="world04" />
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find my_worlds)/worlds/$(arg world).world"/>
+    <arg name="world_name" value="$(find obstacle_avoidance)/worlds/$(arg world).world"/>
     <arg name="debug" value="$(arg debug)" />
     <arg name="gui" value="$(arg gui)" />
     <arg name="paused" value="$(arg pause)"/>
