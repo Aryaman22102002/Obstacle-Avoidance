@@ -13,18 +13,18 @@
 6. Now open a second terminal and run the following command <code>rosrun obstacle_avoidance start.py</code> to start your obstacle avoidance algorithm.
 
 ## Contributors
-•	[Aryaman Shardul](     )
-
+•	[Aryaman Shardul](https://github.com/Aryaman22102002)
 
 ## Acknowledgements and Resources
 •	[SRA VJTI](https://www.sravjti.in/) </br>
 •	Special thanks to [Gautam Agrawal](https://github.com/gautam-dev-maker) and [Saad Hashmi](https://github.com/hashmis79) </br>
 •	https://github.com/ROBOTIS-GIT/turtlebot3_simulations</br>
+• https://github.com/SravanChittupalli/Path-Planning-Algorithms-Part2
 
 
 
 ## License
-The [License]( ) used for this project
+The [License](https://github.com/Aryaman22102002/Obstacle-Avoidance/blob/main/LICENSE) used for this project.
 
 
 
