@@ -12,7 +12,10 @@
 5. You can also change the position where the bot will spawn in the spawn.launch file.
 6. Now open a second terminal and run the following command <code>rosrun obstacle_avoidance start.py</code> to start your obstacle avoidance algorithm.
 
-## Contributors
+## Video
+https://user-images.githubusercontent.com/82901720/127613259-70f9b875-37d4-4038-b433-d08cfe0e3c6e.mp4
+
+## Contributor
 •	[Aryaman Shardul](https://github.com/Aryaman22102002)
 
 ## Acknowledgements and Resources
@@ -20,8 +23,6 @@
 •	Special thanks to [Gautam Agrawal](https://github.com/gautam-dev-maker) and [Saad Hashmi](https://github.com/hashmis79) </br>
 •	https://github.com/ROBOTIS-GIT/turtlebot3_simulations</br>
 • https://github.com/SravanChittupalli/Path-Planning-Algorithms-Part2
-
-
 
 ## License
 The [License](https://github.com/Aryaman22102002/Obstacle-Avoidance/blob/main/LICENSE) used for this project.
