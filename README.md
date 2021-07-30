@@ -15,7 +15,7 @@
         ├── start.py                
     ├── urdf                              # The file which contains the details about the robot and the sensor
         ├── m2wr.xacro 
-    ├── worlds                            # The world files which contain information required to built different worlds 
+    ├── worlds                            # The world files which contain information about different worlds 
         ├── assignment_world.world        
         ├── turtlebot3_stage_1.world            
         ├── turtlebot3_stage_2.world          
